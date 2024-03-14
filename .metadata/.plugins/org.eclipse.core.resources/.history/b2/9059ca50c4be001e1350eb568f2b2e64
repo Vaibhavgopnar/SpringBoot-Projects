@@ -1,0 +1,5 @@
+package com.reactcrud.fullstackbackend.model;
+
+public class User {
+
+}

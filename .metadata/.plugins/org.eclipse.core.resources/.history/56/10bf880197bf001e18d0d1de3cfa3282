@@ -1,0 +1,5 @@
+package com.reactcrud.fullstackbackend.exception;
+
+public class UserNotFoundException {
+
+}

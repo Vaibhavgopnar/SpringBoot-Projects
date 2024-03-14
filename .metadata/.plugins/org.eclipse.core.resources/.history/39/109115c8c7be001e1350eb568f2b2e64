@@ -1,0 +1,5 @@
+package com.reactcrud.fullstackbackend.controller;
+
+public class UserController {
+
+}
